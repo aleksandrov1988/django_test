@@ -1,3 +1,5 @@
+<https://tutorial.djangogirls.org/ru/>
+
 * Создаём `requirements.txt` c содержимым `Django`
 
 ~~~~
